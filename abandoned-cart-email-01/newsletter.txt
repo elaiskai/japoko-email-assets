@@ -1,0 +1,13 @@
+TEMA: Jūsų krepšelyje liko šis tas įdomaus
+PRIEŠLAIŠKIS: Grįžkite prie savo JAPOKO pasirinkimų — jie liko krepšelyje.
+
+Sveiki, [[contact.first_name | default:"JAPOKO bičiuli"]],
+
+JŪSŲ KREPŠELYJE LIKO ŠIS TAS ĮDOMAUS
+
+Panašu, kad vienas ar keli japoniški atradimai patraukė Jūsų dėmesį. Jei vis dar apie juos galvojate, prie krepšelio galite grįžti vienu paspaudimu.
+
+GRĮŽTI Į KREPŠELĮ: {{ CART_URL }}
+
+JAPOKO: https://japoko.com/
+Atsisakyti: {{ unsubscribe_url }}

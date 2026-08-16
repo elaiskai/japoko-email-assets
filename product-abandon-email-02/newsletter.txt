@@ -1,0 +1,14 @@
+TEMA: Vis dar galvojate apie šį JAPOKO atradimą?
+PRIEŠLAIŠKIS: Trumpas priminimas apie produktą, kurį neseniai peržiūrėjote.
+
+Sveiki, [[contact.first_name | default:"JAPOKO bičiuli"]],
+
+VIS DAR GALVOJATE?
+ATRADIMAS NIEKUR NEDINGO
+
+Kartais tinkamam daiktui atrasti reikia šiek tiek laiko. Jei peržiūrėtas produktas vis dar kelia smalsumą, sugrįžkite dar kartą — be skubėjimo ir spaudimo.
+
+PERŽIŪRĖTI DAR KARTĄ: {{ PRODUCT_URL }}
+
+JAPOKO: https://japoko.com/
+Atsisakyti: {{ unsubscribe_url }}

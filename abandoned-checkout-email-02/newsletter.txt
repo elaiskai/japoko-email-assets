@@ -1,0 +1,14 @@
+TEMA: Gal kilo klausimas prieš užbaigiant JAPOKO užsakymą?
+PRIEŠLAIŠKIS: Jeigu kažkas sustabdė, Metodija ir JAPOKO komanda padės.
+
+Sveiki, [[contact.first_name | default:"JAPOKO bičiuli"]],
+
+JEIGU KILO KLAUSIMAS
+PADĖSIME UŽBAIGTI RAMIAI
+
+Jeigu kilo klausimas dėl prekės, pristatymo ar pasirinkimo, parašykite mums. O jeigu tiesiog pritrūko laiko — atsiskaitymo nuoroda laukia žemiau.
+
+GRĮŽTI Į ATSISKAITYMĄ: {{ CHECKOUT_URL }}
+
+JAPOKO: https://japoko.com/
+Atsisakyti: {{ unsubscribe_url }}

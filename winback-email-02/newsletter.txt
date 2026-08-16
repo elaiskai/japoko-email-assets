@@ -1,0 +1,21 @@
+TEMA: Ką JAPOKO atradimai pakeitė kitų kasdienybėje?
+PRIEŠLAIŠKIS: 10+ metų JAPOKO atrankos ir tikros šeimų bei pedagogų patirtys.
+
+DAIKTAI, KURIE TAMPA KASDIENYBĖS DALIMI
+JAPOKO atranka prasideda ne nuo gražios pakuotės. Pirmiausia klausiame: ar daiktą malonu naudoti, ar jis išsprendžia tikrą problemą ir ar jo kokybę pajusite ne vieną kartą?
+
+10+ metų patirties · tiesiai iš Japonijos gamintojų · atrinkta išbandant patiems.
+
+„Šis žaidimas atitraukė mano vaiką nuo kompiuterio.“
+„Pedagogams – neišsemiamas lobynas.“
+„Investavome į vaikų kūrybiškumą bei motoriką.“
+
+LaQ: https://japoko.com/produkto-kategorija/laq-konstruktoriai/
+Kanceliarija: https://japoko.com/produkto-kategorija/japoniska-kanceliarija/
+Namams: https://japoko.com/produkto-kategorija/prekes-namams/
+Dovanos: https://japoko.com/produkto-kategorija/dovanos/
+Saldumynai: https://japoko.com/produkto-kategorija/japoniski-saldumynai/
+Kūno priežiūra: https://japoko.com/produkto-kategorija/kuno-prieziura/
+
+Visas asortimentas: https://japoko.com/produktai/
+Atsisakyti: {{ unsubscribe_url }}

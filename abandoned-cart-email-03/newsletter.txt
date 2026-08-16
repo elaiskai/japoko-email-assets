@@ -1,0 +1,14 @@
+TEMA: Ar paliekame Jūsų JAPOKO pasirinkimus?
+PRIEŠLAIŠKIS: Paskutinis ramus priminimas apie krepšelyje likusius japoniškus atradimus.
+
+Sveiki, [[contact.first_name | default:"JAPOKO bičiuli"]],
+
+PASKUTINIS RAMUS PRIMINIMAS
+PALIEKAME ČIA AR GRĮŽTATE?
+
+Tai paskutinis priminimas apie krepšelyje likusius pasirinkimus. Jei jie vis dar aktualūs, vienu paspaudimu galite sugrįžti ten, kur sustojote.
+
+DAR KARTĄ PERŽIŪRĖTI: {{ CART_URL }}
+
+JAPOKO: https://japoko.com/
+Atsisakyti: {{ unsubscribe_url }}

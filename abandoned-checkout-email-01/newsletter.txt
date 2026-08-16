@@ -1,0 +1,14 @@
+TEMA: Jūsų JAPOKO užsakymui liko vienas žingsnis
+PRIEŠLAIŠKIS: Pasirinkimai jau sudėti — grįžkite tiesiai į atsiskaitymą.
+
+Sveiki, [[contact.first_name | default:"JAPOKO bičiuli"]],
+
+LIKĘS VIENAS ŽINGSNIS
+VISKAS PARUOŠTA BELIKO UŽBAIGTI
+
+Jūsų pasirinkimai jau sudėti. Grįšite tiesiai į atsiskaitymą ir galėsite užbaigti užsakymą nuo tos vietos, kur sustojote.
+
+TĘSTI ATSISKAITYMĄ: {{ CHECKOUT_URL }}
+
+JAPOKO: https://japoko.com/
+Atsisakyti: {{ unsubscribe_url }}
