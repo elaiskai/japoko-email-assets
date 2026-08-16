@@ -1,5 +1,7 @@
 # JAPOKO welcome serija — laiškas Nr. 1
 
+- Po hero įžangos naudojamas savininkės Metodijos Vidūnaitės banneris: `assets/brand/metodija-founder-banner.png`.
+
 ## Kampanijos paskirtis
 
 - Pirmasis welcome serijos laiškas.
