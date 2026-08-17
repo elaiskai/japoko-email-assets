@@ -1,0 +1,16 @@
+TEMA: –8 % Jūsų neužbaigtam JAPOKO užsakymui
+PRIEŠLAIŠKIS: Paskutinis priminimas ir kodas JAPOKO11 — užbaikite su 8 % nuolaida.
+
+Sveiki, [[contact.first_name | default:"JAPOKO bičiuli"]],
+
+PASKUTINIS PRIMINIMAS
+UŽBAIKITE DABAR IR SUTAUPYKITE 8 %
+
+Jei pasirinkimai vis dar aktualūs, pridėjome nedidelę paskatą užsakymui užbaigti. Prekių prieinamumas gali pasikeisti.
+
+–8 % užsakymui. Kodas JAPOKO11. Nuolaidos nesumuojamos.
+
+UŽBAIGTI SU 8 % NUOLAIDA: {{ CHECKOUT_URL }}
+
+JAPOKO: https://japoko.com/
+Atsisakyti: {{ unsubscribe_url }}

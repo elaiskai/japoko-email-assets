@@ -1,0 +1,24 @@
+TEMA: Jūsų 10 % sugrįžimo dovana galioja 72 val.
+PRIEŠLAIŠKIS: Metodijos sugrįžimo dovana Jums: 10 % nuolaida, galiojanti 72 valandas.
+
+ŠTAI MAŽA PRIEŽASTIS SUGRĮŽTI DABAR
+Jūsų pamėgti japoniški atradimai vis dar čia. O šįkart prie jų norėjau pridėti ir mažą asmeninę sugrįžimo dovaną.
+
+ATRINKTA NE VIENAI DIENAI
+Daugiau nei 10 metų JAPOKO atrenka Japonijoje sukurtus daiktus, kuriuose svarbi ne tik išvaizda, bet ir funkcija, patogumas bei kokybė, jaučiama naudojant kasdien.
+
+–10 % VISAM UŽSAKYMUI
+Kodas: {{ WINBACK_CODE }}
+Galioja 72 valandas. Nuolaidos nesumuojamos. Kodo sąlygas patvirtinkite prieš aktyvuojant.
+
+Pristatymas 1–2 d. d. · nemokamas nuo 69 € · 10+ metų atrankos.
+
+LaQ: https://japoko.com/produkto-kategorija/laq-konstruktoriai/
+Kanceliarija: https://japoko.com/produkto-kategorija/japoniska-kanceliarija/
+Namams: https://japoko.com/produkto-kategorija/prekes-namams/
+Dovanos: https://japoko.com/produkto-kategorija/dovanos/
+Saldumynai: https://japoko.com/produkto-kategorija/japoniski-saldumynai/
+Kūno priežiūra: https://japoko.com/produkto-kategorija/kuno-prieziura/
+
+Visas asortimentas: https://japoko.com/produktai/
+Atsisakyti: {{ unsubscribe_url }}

@@ -1,0 +1,14 @@
+TEMA: Kodėl verta dar kartą pažvelgti į krepšelį?
+PRIEŠLAIŠKIS: JAPOKO atranka, greitas pristatymas ir Jūsų pasirinkimai vienoje vietoje.
+
+Sveiki, [[contact.first_name | default:"JAPOKO bičiuli"]],
+
+DAR GALVOJATE?
+KODĖL VERTA PAŽIŪRĖTI DAR KARTĄ?
+
+Kartais sprendimui reikia daugiau nei vieno žvilgsnio. JAPOKO atrenka daiktus, kuriuose svarbi ne tik išvaizda, bet ir funkcija, patogumas bei kokybė.
+
+PERŽIŪRĖTI KREPŠELĮ: {{ CART_URL }}
+
+JAPOKO: https://japoko.com/
+Atsisakyti: {{ unsubscribe_url }}

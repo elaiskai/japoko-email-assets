@@ -1,0 +1,10 @@
+TEMA: Gal norėtumėte pasižvalgyti dar kartą?
+PRIEŠLAIŠKIS: Kelios JAPOKO kryptys, jei norėsite pratęsti pažintį.
+
+Sveiki, [[contact.first_name | default:"JAPOKO bičiuli"]],
+
+Jei tiesiog dairėtės — viskas gerai. O jeigu norėsite pratęsti pažintį su JAPOKO, paliekame kelias kryptis, nuo kurių patogu pradėti.
+
+PASIŽVALGYTI: https://japoko.com/
+
+Atsisakyti: {{ unsubscribe_url }}

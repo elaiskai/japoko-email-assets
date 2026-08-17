@@ -1,0 +1,14 @@
+TEMA: Užkliuvo akis? Pažvelkite dar kartą
+PRIEŠLAIŠKIS: Jūsų peržiūrėtas JAPOKO atradimas vis dar vertas antro žvilgsnio.
+
+Sveiki, [[contact.first_name | default:"JAPOKO bičiuli"]],
+
+UŽKLIUVO AKIS?
+GAL VERTA PAŽVELGTI DAR KARTĄ
+
+Pastebėjome, kad stabtelėjote prie vieno JAPOKO atradimo. Jei norite ramiai įvertinti detales, galite vienu paspaudimu grįžti ten, kur baigėte.
+
+GRĮŽTI PRIE PRODUKTO: {{ PRODUCT_URL }}
+
+JAPOKO: https://japoko.com/
+Atsisakyti: {{ unsubscribe_url }}
